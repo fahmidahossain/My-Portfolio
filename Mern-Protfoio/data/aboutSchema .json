@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66b19d014467826887b4b987"
+  },
+  "lottieUrl": "/path/to/lottieAnimation.json",
+  "description1": "I’m an undergraduate in Computer Science and Engineering at BUET, researching DNA storage error simulation, NLP for report summarization, inter-species genetic expression, and drug response prediction using Deep Learning and Machine Learning. I work under the Biomedical Science and Engineering Research Center (BIOSE) and am currently part of the Womentor 5.0 mentorship program with Banglalink. My project, PinkLifeLine, is part of the RISE (Research and Innovation Centre for Science and Engineering) cohort.",
+  "description2": "I actively engage in software development, product design, supply chain solutions, and tech-business ideation, competing nationally and internationally. In my free time, I write and recite poems, debate, and listen to music. I also volunteer for organizations focused on underprivileged communities, women’s empowerment, and children. Meeting and collaborating with new people is something I cherish. My dream is to find happiness and spread it to others.",
+  "skills": [
+    "Deep Learning",
+    "Machine Learning",
+    "PyTorch",
+    "Keras",
+    "TensorFlow",
+    "Natural Language Processing (NLP)",
+    "MongoDB",
+    "JavaScript"
+  ]
+}]

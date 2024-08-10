@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66b1b76f4467826887b4b99c"
+  },
+  "organization": "TechCorp",
+  "role": "Software Engineer",
+  "duration": "2022 - Present",
+  "description": "Developed and maintained web applications.",
+  "image": "/path/to/job1.jpg",
+  "link": "https://example.com/techcorp-job",
+  "type": "Job"
+},{
+  "_id": {
+    "$oid": "66b1b76f4467826887b4b99d"
+  },
+  "organization": "Innovatech",
+  "role": "Frontend Developer",
+  "duration": "2021 - 2022",
+  "description": "Worked on UI/UX design and implementation.",
+  "image": "/path/to/job2.jpg",
+  "link": "https://example.com/innovatech-job",
+  "type": "Job"
+},{
+  "_id": {
+    "$oid": "66b1b76f4467826887b4b99e"
+  },
+  "organization": "StartupXYZ",
+  "role": "Data Science Intern",
+  "duration": "Summer 2021",
+  "description": "Analyzed data and built predictive models.",
+  "image": "/path/to/internship1.jpg",
+  "link": "https://example.com/startupxyz-internship",
+  "type": "Internship"
+},{
+  "_id": {
+    "$oid": "66b1b76f4467826887b4b99f"
+  },
+  "organization": "WebDev Co.",
+  "role": "Web Developer Intern",
+  "duration": "Summer 2020",
+  "description": "Assisted in developing responsive websites.",
+  "image": "/path/to/internship2.jpg",
+  "link": "https://example.com/webdevco-internship",
+  "type": "Internship"
+}]

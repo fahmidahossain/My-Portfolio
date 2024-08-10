@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "66b1b9154467826887b4b9ab"
+  },
+  "organization": "Organization A",
+  "year": "2022",
+  "description": "Description of your role and contributions at Organization A.",
+  "image": "/path/to/volunteering1.jpg",
+  "link": "#",
+  "category": "Volunteering"
+},{
+  "_id": {
+    "$oid": "66b1b9154467826887b4b9ac"
+  },
+  "organization": "Organization B",
+  "year": "2021",
+  "description": "Description of your role and contributions at Organization B.",
+  "image": "/path/to/volunteering2.jpg",
+  "link": "#",
+  "category": "Volunteering"
+},{
+  "_id": {
+    "$oid": "66b1b9154467826887b4b9ad"
+  },
+  "organization": "Organization C",
+  "year": "2020",
+  "description": "Description of your role and contributions at Organization C.",
+  "image": "/path/to/volunteering3.jpg",
+  "link": "#",
+  "category": "Volunteering"
+},{
+  "_id": {
+    "$oid": "66b1b9154467826887b4b9ae"
+  },
+  "organization": "Organization D",
+  "year": "2019",
+  "description": "Description of your role and contributions at Organization D.",
+  "image": "/path/to/volunteering4.jpg",
+  "link": "#",
+  "category": "Volunteering"
+},{
+  "_id": {
+    "$oid": "66b1b9154467826887b4b9af"
+  },
+  "organization": "Campus Ambassador Club",
+  "year": "2023",
+  "description": "Description of your role and achievements as a Campus Ambassador.",
+  "image": "/path/to/community1.jpg",
+  "link": "#",
+  "category": "Community"
+},{
+  "_id": {
+    "$oid": "66b1b9154467826887b4b9b0"
+  },
+  "organization": "Club XYZ",
+  "year": "2022",
+  "description": "Description of your leadership role and activities in Club XYZ.",
+  "image": "/path/to/community2.jpg",
+  "link": "#",
+  "category": "Community"
+},{
+  "_id": {
+    "$oid": "66b1b9154467826887b4b9b1"
+  },
+  "organization": "Club ABC",
+  "year": "2021",
+  "description": "Description of your role and contributions at Club ABC.",
+  "image": "/path/to/community3.jpg",
+  "link": "#",
+  "category": "Community"
+},{
+  "_id": {
+    "$oid": "66b1b9154467826887b4b9b2"
+  },
+  "organization": "Club DEF",
+  "year": "2020",
+  "description": "Description of your role and contributions at Club DEF.",
+  "image": "/path/to/community4.jpg",
+  "link": "#",
+  "category": "Community"
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "66b1bbb34467826887b4b9c1"
+  },
+  "title": "Published Paper on AI",
+  "year": "2023",
+  "contributions": "Published research on AI advancements in healthcare.",
+  "image": "/assets/publication1.png"
+},{
+  "_id": {
+    "$oid": "66b1bbb34467826887b4b9c2"
+  },
+  "title": "Journal of Deep Learning",
+  "year": "2022",
+  "contributions": "Article on deep learning methods and applications.",
+  "image": "/assets/publication2.png"
+}]

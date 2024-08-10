@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "66b1bb144467826887b4b9bd"
+  },
+  "title": "AI in Healthcare",
+  "year": "2023",
+  "contributions": "Developed predictive models for patient health outcomes.",
+  "supervisor": {
+    "name": "Dr. Jane Smith",
+    "link": "https://example.com"
+  },
+  "paperLink": "https://www.facebook.com/profile.php?id=100088494664917",
+  "gitLink": "https://github.com/example",
+  "driveLink": "https://drive.google.com/example",
+  "image": "/assets/research1.png"
+},{
+  "_id": {
+    "$oid": "66b1bb144467826887b4b9be"
+  },
+  "title": "Deep Learning for Image Classification",
+  "year": "2022",
+  "contributions": "Created and trained convolutional neural networks.",
+  "supervisor": {
+    "name": "Prof. John Doe",
+    "link": "https://example.com"
+  },
+  "paperLink": "https://researchgate.net/example",
+  "gitLink": "https://github.com/example",
+  "driveLink": "https://drive.google.com/example",
+  "image": "/assets/research2.png"
+}]

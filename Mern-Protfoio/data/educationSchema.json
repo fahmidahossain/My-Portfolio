@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "66b1b59b4467826887b4b990"
+  },
+  "title": "Bachelor of Science in Computer Science and Engineering",
+  "year": "2020-2024",
+  "details": [
+    {
+      "label": "Group",
+      "value": "Computer Science"
+    },
+    {
+      "label": "Institute",
+      "value": "BUET"
+    },
+    {
+      "label": "Result",
+      "value": "CGPA 3.9"
+    },
+    {
+      "label": "Description",
+      "value": "Detailed description of your BSc Engg program."
+    }
+  ],
+  "image": "/assets/bscengg.png"
+},{
+  "_id": {
+    "$oid": "66b1b59b4467826887b4b991"
+  },
+  "title": "Higher Secondary School Certificate (HSC)",
+  "year": "2018-2020",
+  "details": [
+    {
+      "label": "Group",
+      "value": "Science"
+    },
+    {
+      "label": "Institute",
+      "value": "XYZ College"
+    },
+    {
+      "label": "Result",
+      "value": "GPA 5.0"
+    },
+    {
+      "label": "Description",
+      "value": "Detailed description of your HSC studies."
+    }
+  ],
+  "image": "/assets/hsc.png"
+},{
+  "_id": {
+    "$oid": "66b1b59b4467826887b4b992"
+  },
+  "title": "Secondary School Certificate (SSC)",
+  "year": "2016-2018",
+  "details": [
+    {
+      "label": "Group",
+      "value": "Science"
+    },
+    {
+      "label": "Institute",
+      "value": "ABC School"
+    },
+    {
+      "label": "Result",
+      "value": "GPA 5.0"
+    },
+    {
+      "label": "Description",
+      "value": "Detailed description of your SSC studies."
+    }
+  ],
+  "image": "/assets/ssc.png"
+}]

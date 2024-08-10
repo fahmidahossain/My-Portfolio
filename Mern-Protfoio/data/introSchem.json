@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "66b19c724467826887b4b984"
+  },
+  "welcomeText": "Hi, my name is",
+  "firstName": "Fahmida",
+  "lastName": "Sultna",
+  "caption": "Passionate researcher, developer, and volunteer.",
+  "description": "I'm an undergraduate in Computer Science and Engineering at BUET, with research interests in Computational Biology, Bioinformatics, and HCI. I actively participate in software development, product design, and tech-business ideation, competing nationally and internationally. In my free time, I enjoy poetry, debate, music, and volunteer work, striving to find and spread happiness.",
+  "linkedinLink": "https://www.linkedin.com/in/fahmida-sultana-naznin/",
+  "gitLink": "https://github.com/fahmidahossain"
+}]

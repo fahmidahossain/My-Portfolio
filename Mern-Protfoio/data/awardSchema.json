@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "66b1b8614467826887b4b9a2"
+  },
+  "name": "AI Innovation Challenge",
+  "type": "International",
+  "organizer": "Tech Conference Org",
+  "year": "2022",
+  "description": "Developed a cutting-edge AI solution for predictive analytics.",
+  "image": "/path/to/image1.jpg",
+  "link": "https://example.com/ai-innovation-challenge",
+  "category": "Tech-Driven Innovation Competitions"
+},{
+  "_id": {
+    "$oid": "66b1b8614467826887b4b9a3"
+  },
+  "name": "Hackathon XYZ",
+  "type": "National",
+  "organizer": "Tech University",
+  "year": "2021",
+  "description": "Created a business model for an AI-powered application.",
+  "image": "/path/to/image2.jpg",
+  "link": "https://example.com/hackathon-xyz",
+  "category": "Tech-Driven Innovation Competitions"
+},{
+  "_id": {
+    "$oid": "66b1b8614467826887b4b9a4"
+  },
+  "name": "Excellence Scholarship",
+  "type": "National",
+  "organizer": "University ABC",
+  "year": "2023",
+  "description": "Awarded for outstanding academic performance in engineering.",
+  "image": "/path/to/image4.jpg",
+  "link": "https://example.com/excellence-scholarship",
+  "category": "Academic Scholarships"
+},{
+  "_id": {
+    "$oid": "66b1b8614467826887b4b9a5"
+  },
+  "name": "Merit Scholarship",
+  "type": "International",
+  "organizer": "Global Scholars Program",
+  "year": "2022",
+  "description": "Received for exceptional research in AI and machine learning.",
+  "image": "/path/to/image5.jpg",
+  "link": "https://example.com/merit-scholarship",
+  "category": "Academic Scholarships"
+},{
+  "_id": {
+    "$oid": "66b1b8614467826887b4b9a6"
+  },
+  "name": "Math Olympiad",
+  "type": "International",
+  "organizer": "Olympiad Committee",
+  "year": "2020",
+  "description": "Secured top position in the international level competition.",
+  "image": "/path/to/image6.jpg",
+  "link": "https://example.com/math-olympiad",
+  "category": "Olympiads"
+},{
+  "_id": {
+    "$oid": "66b1b8614467826887b4b9a7"
+  },
+  "name": "Creative Writing Contest",
+  "type": "National",
+  "organizer": "Literary Society",
+  "year": "2022",
+  "description": "Won first place for an essay on technology in society.",
+  "image": "/path/to/image7.jpg",
+  "link": "https://example.com/creative-writing-contest",
+  "category": "Essay Competitions"
+},{
+  "_id": {
+    "$oid": "66b1b8614467826887b4b9a8"
+  },
+  "name": "Community Service Award",
+  "type": "National",
+  "organizer": "Non-Profit Org",
+  "year": "2021",
+  "description": "Recognized for extensive volunteer work and community service.",
+  "image": "/path/to/image8.jpg",
+  "link": "https://example.com/community-service-award",
+  "category": "Others"
+}]
